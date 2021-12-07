@@ -19,15 +19,15 @@ Bot = Client(
 )
 
 START_TXT = """
-Hi {}, I am Music Editor Bot.
-I can change the music tags and artwork.
+Hi👋 {}, I am Music Editor Bot.
+I can change the music tags and artworks.
 
 Send a music to get started.
 """
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/MusicEditorBot'),
+        InlineKeyboardButton('👤Owner', url='https://t.me/HydraLivegrambot'),
         ]]
     )
 
