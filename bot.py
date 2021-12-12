@@ -27,7 +27,7 @@ Send a music to get started.
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👤Owner', url='https://t.me/HydraLivegrambot'),
+        InlineKeyboardButton('📣 Channel', url='https://t.me/Tg_Galaxy'),
         ]]
     )
 
